@@ -1,0 +1,2 @@
+money = input("请输入数值：")
+print("金钱:%s"%money)
